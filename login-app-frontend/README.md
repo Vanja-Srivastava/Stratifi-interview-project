@@ -1,4 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Before running the project please make sure that all the following packages are installed on your machine:
+  1. axios : install by doing : npm install axios --save
+  2. bootstrap: npm install --save bootstrap@^4.0.0-alpha.6  react-bootstrap@^0.32.1
+  3. reacter-router-dom npm install --save react-router-dom
 
 ## Available Scripts
 
